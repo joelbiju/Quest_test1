@@ -3,7 +3,7 @@
 
     <item
         android:id="@+id/nav_RecyclerView"
-        android:title="recyclerview" />
+        android:title="Recycler" />
 
     <item
         android:id="@+id/nav_TabLayout"

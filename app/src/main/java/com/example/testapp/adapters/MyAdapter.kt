@@ -31,8 +31,8 @@ class MyAdapter(recyclerFragment: FragmentRecyclerView) : RecyclerView.Adapter<M
 
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
 
-        val planet = List[position]
-        holder.textView.text = planet
+        val elements = List[position]
+        holder.textView.text = elements
     }
 
 
